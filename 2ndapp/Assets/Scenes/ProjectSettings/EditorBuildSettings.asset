@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fd89583dda9717941b2f9aba2b17585a
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 779a8200cda59cd4681ce99996183ed6
+  - enabled: 1
+    path: Assets/Scenes/Photosphere1.unity
+    guid: bad2964510d55d3469f6ac2d89f717e5
+  - enabled: 1
+    path: Assets/Scenes/Photoshpere2.unity
+    guid: d0103da4e377eaa4a89f9a0889cd7fc9
+  - enabled: 1
+    path: Assets/Scenes/Photosphere3.unity
+    guid: 2f2b64d5c5165704197ab24e959d1ce4
+  m_configObjects: {}
